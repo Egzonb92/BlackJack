@@ -20,7 +20,7 @@ Else, she loses.
 * Marit loses the game if she reaches a sum of more than 21. 
 
 ## How to run
-The program runs by compiling all the following files:
+The program runs by compiling all the following files found in the 'src' folder:
 *   BlackJack.java
 *   Card.java
 *   CardStack.java
