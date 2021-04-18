@@ -39,3 +39,9 @@ Egzon | 25 | S4,D4,S7,HQ
 Marit | 11 | C5,H6
 
 ```
+
+## Dependencies
+```
+com.google.common.reflect.TypeToken
+com.google.gson.Gson
+```
